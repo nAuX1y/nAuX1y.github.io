@@ -1,0 +1,22 @@
+绿茵王朝 / Grassroots Dynasty · Handoff Manifest
+Version: 1.3.11
+Generated: 2026-11-17
+
+Algorithm: SHA-256
+
+9c02ea6150997cf928599293e6dc81d75bfd0c3a79c6e8387dbfb4441ee66aac      9831  README.md
+8879729dce76d3733f945e19bbb34bf15e1d0326b19e60230e369c2d8f07df49      11478  AI_CONTINUE_PROMPT.md
+e24df03e6328f637558b17b8eec4ce6e1f489cff19a31ed4aa58cfcd0677d208      57338  HANDOFF.md
+c192258fd6015e769c9cb8404a2d83c0a67357aa09fd07b5090fed525a5e3d4d      50232  TESTING.md
+843b3f5ab9c06c8923e86c056b87b8068814016e6b0671668280c86728987923      41508  CHANGELOG.md
+93810224de5d6036a50449db07ea34d02b071088e87068eb1192d5188ae9499b      1021  src/bundle.py
+d2fa977365de9e79b110f741a3a4a2e6d29675bd7c0b31cf82adb2b2a2e5e853      651186  src/game.js
+e558fe7a3a09d1aabc2c7c05a2df4b875b39022545dea1aefdc55cc27c57f359      1702  src/index.html
+d5a24a4c2d00b82fbe0815637b4e021b8e629ee3ccc6a9308d5dbc6b48e6f2d0      77979  src/styles.css
+422a638ed12c312d588b8a1583bc6b39002fb59a5a8141117056bc9bc02f0378      731935  dist/grassroots-dynasty.html
+422a638ed12c312d588b8a1583bc6b39002fb59a5a8141117056bc9bc02f0378      731935  dist/绿茵王朝.html
+
+Canonical release: dist/grassroots-dynasty.html
+Chinese filename mirror: dist/绿茵王朝.html (identical bytes)
+Source of truth: src/game.js, src/styles.css, src/index.html
+Build: python src/bundle.py  ->  dist/

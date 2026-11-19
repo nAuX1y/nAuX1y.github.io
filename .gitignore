@@ -1,0 +1,14 @@
+# 测试产物（截图、批量模拟日志、一次性脚本）
+.test-output/
+
+# 系统 / 编辑器杂项
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# 临时文件
+*.log
+*.tmp
+*.bak

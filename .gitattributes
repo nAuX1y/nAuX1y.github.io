@@ -1,0 +1,8 @@
+# 统一换行符，避免 Windows(CRLF) / macOS·Linux(LF) 之间产生整文件 diff
+* text=auto eol=lf
+
+# 明确二进制文件，防止被换行符转换破坏
+*.7z  binary
+*.png binary
+*.jpg binary
+*.ico binary
